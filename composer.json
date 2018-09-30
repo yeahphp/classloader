@@ -1,0 +1,21 @@
+{
+    "name": "yeahphp/classloader",
+    "description": "php class autoloader",
+    "keywords": ["yeahphp", "autoload", "classloader"],
+    "version": "1.0",
+    "type": "library",
+    "license": "Apache-2.0",
+    "homepage": "http://www.yeahphp.com/classloader",
+    "authors":[
+        {
+            "name": "Wuquanyao",
+            "email": "git@yeahphp.com",
+            "homepage": "http://www.yeahphp.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php" : ">=5.4"
+    }
+}
